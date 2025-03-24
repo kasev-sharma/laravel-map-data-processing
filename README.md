@@ -58,10 +58,6 @@ php artisan process:mapdata
 - To add more data, update `locations.json` and `metadata.json`.
 - Extend logic in `app/Console/Commands/ProcessMapData.php`.
 
-## Submission Requirements
-- **GitHub Repository**: Upload the complete project.
-- **Hosted Link (Optional)**: Deploy if necessary.
-- **Documentation**: Upload this file as a PDF if required.
 
 ## Contact
 For any queries, reach out at: `sharmakasev@gmailcom`
